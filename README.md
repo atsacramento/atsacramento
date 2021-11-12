@@ -1,5 +1,5 @@
 ### Olá 👋
-Me chamo Alex Sacramento, sou desenvolvedor FullStack e trabalho com tecnologia desde 2008.
+Me chamo Alex Sacramento, sou desenvolvedor FullStack e trabalho com tecnologia desde 1998.
 
 <div align="center">
   <a href="https://github.com/RodrigoMCarvalho">
