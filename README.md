@@ -28,8 +28,3 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
  
  <a href="https://www.linkedin.com/in/alex-sacramento/">
 <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Alex%20Sacramento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-sacramento/"/></a>
-  
-<div>   
-
-   ![Snake animation](https://github.com/danspiegel/danspiegel/blob/output/github-contribution-grid-snake.svg)
-</div>
