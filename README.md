@@ -26,7 +26,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
  #
  
- <a href="https://wwww.linkedin.com/in/alex-sacramento/">
+ <a href="https://www.linkedin.com/in/alex-sacramento/">
 <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Alex Sacramento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-sacramento/"/></a>
   
 
