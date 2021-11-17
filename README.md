@@ -10,9 +10,9 @@ Me chamo Alex Sacramento, sou Java Developer | FullStack e trabalho com tecnolog
 ## ⚡ Tecnologias
 Estas são algumas das tecnologias e ferramentas com as quais trabalhei até hoje:
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -22,13 +22,17 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalhei até hoj
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![BitBUcket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
+![BitBUcket](https://img.shields.io/badge/-BitBucket-blue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Intellij IDEA](https://img.shields.io/badge/-Intellij IDEA-007ACC?style=flat-square&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Intellij IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
  #
  
  <a href="https://www.linkedin.com/in/alex-sacramento/">
